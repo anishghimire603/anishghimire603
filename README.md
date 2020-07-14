@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
 
 <p align="center">
- <img src="Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/ai.svg" alt="html" style="vertical-align:top; margin:4px">
  <img src="Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
  <img src="Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
  <img src="Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
