@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing my Bachelor of Science in Computer Science and Information Technology(Bsc.CSIT).
 
-- 🌱 I’m currently learning Full-Stack Development, 3D modeling, ML and IOT.
+- 🌱 I’m currently learning Full-Stack Development, AI/ML/DL, 3D modeling and IOT.
 
 - 👯 I’m looking to collaborate on Open-source Projects.
 
