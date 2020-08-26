@@ -39,7 +39,7 @@
 
 
 ![Anish Ghimire Github Stats](https://github-readme-stats.vercel.app/api?username=anishghimire603&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishghimire603&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br /> 
 
 - 📫 How to reach me:<br>
