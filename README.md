@@ -50,6 +50,10 @@
 <a href = "https://www.linkedin.com/in/anish-ghimire-4b872715a/" target="_blank"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
 <a href = "https://ganish.com.np/" target="_blank"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>
 
+**Visitors Count** 
+
+![VisitorCount](https://profile-counter.glitch.me/{anishghimire603}/count.svg)
+
 *************
 
 From [anishghimire603](https://github.com/anishghimire603)
